@@ -2,10 +2,13 @@
 ## About the program
         KruTube program in automatic mode:
 
-   -increases the number of views for videos on YouTube,
-   -puts likes and dislikes,
-   -Add subscribers
-   -Adds comments in any language of the world.
+-increases the number of views for videos on YouTube,
+
+-puts likes and dislikes,
+
+-Add subscribers
+
+-Adds comments in any language of the world.
         
         Work takes place on the principle of exchange with other users of the program. After adding links to your videos, they fall into a single general list and immediately become available for automatic viewing by other participants in the system. In turn, your copy of the program starts to show videos of other users in turn. For each viewing performed by the program, your balance is replenished by +2 points.
 # Key Features:
