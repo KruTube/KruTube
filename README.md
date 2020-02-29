@@ -15,3 +15,4 @@ The program has a simple, intuitive and convenient user interface.
 100% audience retention for videos lasting up to 5 minutes.
 All transitions to video are external (from social networks).
 Stable and daily supported. Today too.
+  To work with the program you need to have your account (channel) on YouTube. On his behalf, views will take place. It is quite possible to use your main account, but we recommend creating a separate one. This is not difficult at all, here is a detailed instruction from YouTube
