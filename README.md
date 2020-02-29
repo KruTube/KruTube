@@ -1,5 +1,5 @@
 # KruTube
-# # About the program
+## About the program
         KruTube program in automatic mode:
 
 increases the number of views for videos on YouTube,
